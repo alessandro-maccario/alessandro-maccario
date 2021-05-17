@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alessandro-maccario;
 - 👀 I’m interested in Data Science, Data Visualization, Data Management, Programming, Statistics and, of course, Tea and Coffee!
 - 🌱 I’m currently studying at University of Milano-Bicocca, MSc Data Science;
-- 📫 How to reach me: alessandro.maccario@gmail.com;
+- 📫 How to reach me: alessandro.maccario@gmail.com.
