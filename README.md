@@ -8,7 +8,7 @@
 # :bar_chart: GitHub Stats
 
 [![Alessandro Maccario's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-maccario&hide=prs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/alessandro-maccario/github-readme-stats) 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-maccario&theme=vue-dark&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-maccario&theme=vue-dark&layout=compact"/>
 
 # :computer: Software & Languages known
 
