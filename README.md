@@ -1,9 +1,25 @@
 # <p align="center">Hello there! 🤓 <img src="https://github.com/alessandro-maccario/alessandro-maccario/blob/main/wave_hand.gif" width="30px"></p>
 
-### <p align="center"> I'm Alessandro Maccario, aspiring Data Scientist!</p>
-### <p align="center"> Currently studying at University of Milano-Bicocca, MSc Data Science.</p>
-### <p align="center"> I’m interested in Machine Learning, Data Visualization, Data Management, Programming, Statistics!</p><br/>
-### <p align="center">📫 How to reach me: alessandro.maccario@gmail.com.</p>
+<p align="center">
+I'm <b>Alessandro Maccario</b>, aspiring <b>Data Scientist!</b><br>
+Currently studying at <b>University of Milano-Bicocca</b>, <b>MSc Data Science</b>.<br>
+I’m interested in Machine Learning, Data Visualization, Data Management, Programming, Statistics!<br/>
+📫 How to reach me: alessandro.maccario@gmail.com.</p>
+  
+<!-- Actual text -->
+
+You can also find me on on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://github.com/alessandro-maccario/alessandro-maccario/blob/main/linkedinLogo.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/alessandro-maccario-7b173377/ 
+  
+  
+
 
 # :bar_chart: GitHub Stats
 
