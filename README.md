@@ -8,7 +8,7 @@ I’m interested in Machine Learning, Data Visualization, Data Management, Progr
   
 <!-- Actual text -->
 
-You can also find me on on [![LinkedIn][1.2]][1].
+<p align="center"> You can also find me on on [![LinkedIn][1.2]][1].</p>
 
 <!-- Icons -->
 
