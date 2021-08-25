@@ -12,7 +12,7 @@ You can also find me on on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/alessandro-maccario/alessandro-maccario/blob/main/output-onlinepngtools.png
+[1.2]: https://github.com/alessandro-maccario/alessandro-maccario/blob/main/linkedin.png
 
 <!-- Links to your social media accounts -->
 
