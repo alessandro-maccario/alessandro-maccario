@@ -4,11 +4,11 @@
 I'm <b>Alessandro Maccario</b>, aspiring <b>Data Scientist!</b><br>
 Currently studying at <b>University of Milano-Bicocca</b>, <b>MSc Data Science</b>.<br>
 I’m interested in Machine Learning, Data Visualization, Data Management, Programming, Statistics!<br/>
-📫 How to reach me: alessandro.maccario@gmail.com.</p>
+</p>
   
 <!-- Actual text -->
-
-<p align="center"> You can also find me on on [![LinkedIn][1.2]][1].</p>
+📫 How to reach me: alessandro.maccario@gmail.com. <br>
+:point_right: You can also find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
@@ -17,7 +17,7 @@ I’m interested in Machine Learning, Data Visualization, Data Management, Progr
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/alessandro-maccario-7b173377/ 
-  
+
   
 
 
