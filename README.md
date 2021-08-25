@@ -1,4 +1,4 @@
-# Hello there! 🤓 <img src="https://github.com/alessandro-maccario/alessandro-maccario/blob/main/wave_hand.gif" width="30px">
+# <p align="center">Hello there! 🤓 <img src="https://github.com/alessandro-maccario/alessandro-maccario/blob/main/wave_hand.gif" width="30px"></p>
 
 ### <p align="center"> :point_right: My name is Alessandro Maccario!</p>
 ### <p align="center"> I'm an aspiring Data Scientist, currently studying at University of Milano-Bicocca, MSc Data Science.</p>
