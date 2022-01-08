@@ -7,7 +7,7 @@ I’m interested in <b>Machine Learning, Data Visualization, Data Management, Pr
 </p>
   
 <!-- Actual text -->
-📫 How to reach me: alessandro.maccario@gmail.com. <br>
+📫 How to reach me: alessandro.maccario.w@gmail.com. <br>
 :point_right: You can also find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
