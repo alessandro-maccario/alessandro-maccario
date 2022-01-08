@@ -16,7 +16,7 @@ I’m interested in <b>Machine Learning, Data Visualization, Data Management, Pr
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/alessandro-maccario-7b173377/ 
+[1]: https://www.linkedin.com/in/alessandro-maccario-7b173377/?locale=en_US
 
   
 
