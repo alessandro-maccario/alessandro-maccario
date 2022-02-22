@@ -3,7 +3,7 @@
 <p align="center">
 I'm <b>Alessandro Maccario</b>, aspiring <b>Data Scientist!</b><br>
 Currently studying at <b>University of Milano-Bicocca</b>, <b>MSc Data Science</b><br>
-Erasmus Student at <b>University of Klagenfurt</b>, Austria.
+Erasmus Student at <b>University of Klagenfurt</b>, Austria.<br>
 I’m interested in <b>Machine Learning, Data Visualization, Data Management, Programming, Statistics!</b><br/>
 </p>
   
