@@ -3,7 +3,7 @@
 <p align="center">
 I'm <b>Alessandro Maccario</b>, <b>Data Engineer!</b><br>
 I've completed my Master Degree at <b>University of Milano-Bicocca</b> in <b>Data Science</b><br> with a grade of <b>110/110 with Honors</b>.
-During my University career I have been an Erasmus Student at <b>University of Klagenfurt</b>, Austria.<br>
+During my University career I have been an Erasmus Student at <b>University of Klagenfurt</b>, Austria where I also developed part of my Master Thesis in the field of Recommender Systems.<br>
 I’m interested in <b>Machine Learning and Deep Learning, Data Visualization, Data Management, Programming and Statistics!</b><br/>
 </p>
   
