@@ -1,10 +1,10 @@
 # <p align="center">Hello there! 🤓 <img src="https://github.com/alessandro-maccario/alessandro-maccario/blob/main/wave_hand.gif" width="30px"></p>
 
 <p align="center">
-I'm <b>Alessandro Maccario</b>, aspiring <b>Data Scientist!</b><br>
-Currently studying at <b>University of Milano-Bicocca</b>, <b>MSc Data Science</b><br>
-Erasmus Student at <b>University of Klagenfurt</b>, Austria.<br>
-I’m interested in <b>Machine Learning, Data Visualization, Data Management, Programming, Statistics!</b><br/>
+I'm <b>Alessandro Maccario</b>, <b>Data Engineer!</b><br>
+I've completed my Master Degree at <b>University of Milano-Bicocca</b> in <b>MSc Data Science</b><br> with a grade of <b>110/100 with Honors</b>.
+During my University career I have been an Erasmus Student at <b>University of Klagenfurt</b>, Austria.<br>
+I’m interested in <b>Machine Learning and Deep Learning, Data Visualization, Data Management, Programming and Statistics!</b><br/>
 </p>
   
 <!-- Actual text -->
