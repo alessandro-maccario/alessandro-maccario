@@ -8,7 +8,6 @@ I’m interested in <b>Machine Learning and Deep Learning, Data Visualization, D
 </p>
   
 <!-- Actual text -->
-📫 How to reach me: alessandro.maccario.w@gmail.com. <br>
 :point_right: You can also find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
