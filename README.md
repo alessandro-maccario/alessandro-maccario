@@ -32,4 +32,4 @@ I’m interested in <b>Machine Learning and Deep Learning, Data Visualization, D
 
 # :ninja: Codewars Stats
 
-![Alessandro Maccario's Codewars stats](https://www.codewars.com/users/alessandro-maccario/codewars?user=USERNAME&stroke=green&top_languages=true)
+![Codewars](https://www.codewars.com/users/alessandro-maccario/codewars?user=USERNAME&stroke=green&top_languages=true)
