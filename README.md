@@ -32,4 +32,4 @@ I’m interested in <b>Machine Learning and Deep Learning, Data Visualization, D
 
 # 🐱‍👤 Codewars Stats
 
-![Codewars](https://github.r2v.ch/codewars?user=alessandro-maccario&stroke=green&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=alessandro-maccario)
