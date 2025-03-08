@@ -23,7 +23,6 @@ I’m interested in <b>Machine Learning and Deep Learning, Data Visualization, D
 # :bar_chart: GitHub Stats
 
 [![Alessandro Maccario's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-maccario&hide=prs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/alessandro-maccario/github-readme-stats) 
-
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-maccario&theme=vue-dark&layout=pie"/> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-maccario&langs_count=5&hide=jupyter%20notebook&theme=vue-dark))
 
