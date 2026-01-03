@@ -26,12 +26,11 @@ I’m interested in <b>Machine Learning and Deep Learning, Data Visualization, D
 
 # 💻 📊: GitHub Stats
 
-[![Alessandro Maccario's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-maccario&hide=prs&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/alessandro-maccario/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-maccario&langs_count=5&hide=jupyter%20notebook&theme=vue-dark))
+[![Alessandro Maccario's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-maccario)](https://github.com/alessandro-maccario/github-readme-stats)
 
-[![Alessandro Maccario's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro-maccario)](https://github.com/alessandro-maccario/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-maccario&langs_count=5&hide=jupyter%20notebook&theme=vue-dark)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro-maccario&langs_count=5&hide=jupyter%20notebook&theme=vue-dark))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 📊 Codewars Stats
 
