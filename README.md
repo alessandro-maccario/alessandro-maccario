@@ -35,4 +35,4 @@ I’m interested in <b>Machine Learning and Deep Learning, Data Visualization, D
 
 # 💻 📊 Leetcode Stats
 
-![Leetcode Stats](https://leetcode.com/u/alessandro-maccario/)
+![Leetcode Stats](https://leetcode.com/u/alessandro-maccario/AlessandroMaccario)
